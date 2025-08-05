@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps Professional</h3>
 
 - 🔭 I’m currently working on **improving CI/CD pipelines and automating infrastructure**
-- 🌱 I’m currently learning **Kubernetes, azure, GitHub Actions, and Helm**
+- 🌱 I’m currently learning **Kubernetes, GitHub Actions, and Helm**
 - 👯 I’m looking to collaborate on **cloud-native DevOps projects**
 - 💬 Ask me about **Docker, Jenkins, Terraform, AWS, azure or Linux**
 - 📫 How to reach me **iamsrikanth52@gmail.com**
