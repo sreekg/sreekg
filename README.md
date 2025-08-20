@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Srikanth G</h1>
 <h3 align="center">A passionate DevOps Professional</h3>
 
-- 🔭 I’m currently working on **improving CI/CD pipelines and automating infrastructure**
-- 🌱 I’m currently learning **Kubernetes, GitHub Actions, and Helm**
-- 👯 I’m looking to collaborate on **cloud-native DevOps projects**
-- 💬 Ask me about **Docker, Jenkins, Terraform, AWS, azure or Linux**
-- 📫 How to reach me **iamsrikanth52@gmail.com**
-- ⚡ Fun fact: *I automate things so you don’t have to!*
+- I’m currently working on **improving CI/CD pipelines and automating infrastructure**
+- I’m currently learning **Kubernetes, GitHub Actions, and Helm**
+- I’m looking to collaborate on **cloud-native DevOps projects**
+- Ask me about **Docker, Jenkins, Terraform, AWS, azure or Linux**
+- How to reach me **iamsrikanth52@gmail.com**
+- Fun fact: *I automate things so you don’t have to!*
 
 ---
 
